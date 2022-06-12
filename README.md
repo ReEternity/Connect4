@@ -1,3 +1,3 @@
 # Connect4
 
-This project was built using a third party library, Grid World Case Study.
+This project was built upon a third party library, Grid World Case Study.
