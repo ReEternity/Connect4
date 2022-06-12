@@ -1,7 +1,8 @@
-import info.gridworld.actor.*;
-import info.gridworld.grid.*;
-import java.util.*;
+import info.gridworld.actor.ActorWorld;
+import info.gridworld.grid.BoundedGrid;
+import info.gridworld.grid.Location;
 import java.awt.Color;
+import java.util.Scanner;
 
 public class Connect4{
     public Scanner in = new Scanner(System.in);
